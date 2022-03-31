@@ -55,6 +55,7 @@ int main()
 	result(towerHeightTwo, 10);
 	result(towerHeightTwo, 0);
 	result(towerHeightTwo, 1);
+	result(towerHeightTwo, 1);
 
 
 	return 0;
