@@ -30,6 +30,10 @@ double result(int towerHeight, int secondTwo)
 
 }
 
+/// <summary>
+/// 
+/// </summary>
+/// <returns></returns>
 
 int main()
 {
