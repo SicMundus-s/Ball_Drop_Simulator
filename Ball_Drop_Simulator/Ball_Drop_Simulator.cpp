@@ -7,7 +7,12 @@ double towerHeight() // Запрашиваем высоту башни
 	double towerHeight; std::cin >> towerHeight;
 	return towerHeight;
 }
-
+/// <summary>
+/// 
+/// </summary>
+/// <param name="towerHeight"></param>
+/// <param name="secondTwo"></param>
+/// <returns></returns>
 double result(int towerHeight, int secondTwo)
 {
 
