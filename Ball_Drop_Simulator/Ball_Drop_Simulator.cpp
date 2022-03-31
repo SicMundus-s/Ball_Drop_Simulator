@@ -53,6 +53,8 @@ int main()
 	result(towerHeightTwo, 8);
 	result(towerHeightTwo, 9);
 	result(towerHeightTwo, 10);
+	result(towerHeightTwo, 0);
+	result(towerHeightTwo, 1);
 
 
 	return 0;
