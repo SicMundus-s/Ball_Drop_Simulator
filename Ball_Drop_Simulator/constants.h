@@ -9,5 +9,8 @@ namespace constants
     const double avogadro(6.0221413e23);
     const double my_gravity(9.8);
     // ... другие константы 
+
+
+
 }
 #endif
