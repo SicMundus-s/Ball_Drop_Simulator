@@ -46,17 +46,8 @@ int main()
 
 	const int towerHeightTwo = towerHeight();
 
-	result(towerHeightTwo, 0);
-	result(towerHeightTwo, 1);
-	result(towerHeightTwo, 2);
-	result(towerHeightTwo, 3);
-	result(towerHeightTwo, 4);
-	result(towerHeightTwo, 5);
-	result(towerHeightTwo, 6);
-	result(towerHeightTwo, 7);
-	result(towerHeightTwo, 8);
-	result(towerHeightTwo, 9);
 	result(towerHeightTwo, 10);
+
 
 	std::cout << "HelloGit";
 
