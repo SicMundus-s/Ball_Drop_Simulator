@@ -30,6 +30,10 @@ double result(int towerHeight, int secondTwo)
 
 }
 
+void feature()
+{
+	std::cout << "feature\n";
+}
 /// <summary>
 /// 
 /// </summary>
@@ -55,6 +59,9 @@ int main()
 	result(towerHeightTwo, 10);
 
 	std::cout << "HelloGit";
+
+	feature();
+	feature();
 
 
 	return 0;
