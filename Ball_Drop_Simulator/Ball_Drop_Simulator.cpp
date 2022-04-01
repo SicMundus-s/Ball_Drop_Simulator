@@ -46,7 +46,7 @@ int main()
 
 	const int towerHeightTwo = towerHeight();
 
-	result(towerHeightTwo, 10);
+	result(towerHeightTwo, 101);
 	
 
 	std::cout << "HelloGit";
