@@ -7,12 +7,7 @@ double towerHeight() // Запрашиваем высоту башни
 	double towerHeight; std::cin >> towerHeight;
 	return towerHeight;
 }
-/// <summary>
-/// 
-/// </summary>
-/// <param name="towerHeight"></param>
-/// <param name="secondTwo"></param>
-/// <returns></returns>
+
 double result(int towerHeight, int secondTwo)
 {
 
@@ -30,15 +25,6 @@ double result(int towerHeight, int secondTwo)
 
 }
 
-void feature()
-{
-	std::cout << "feature\n";
-}
-/// <summary>
-/// 
-/// </summary>
-/// <returns></returns>
-
 int main()
 {
 
@@ -46,14 +32,16 @@ int main()
 
 	const int towerHeightTwo = towerHeight();
 
-	result(towerHeightTwo, 101);
-	
-
-	std::cout << "HelloGit";
-
-	feature();
-	feature();
-
+	result(towerHeightTwo, 1);
+	result(towerHeightTwo, 2);
+	result(towerHeightTwo, 3);
+	result(towerHeightTwo, 4);
+	result(towerHeightTwo, 5);
+	result(towerHeightTwo, 6);
+	result(towerHeightTwo, 7);
+	result(towerHeightTwo, 8);
+	result(towerHeightTwo, 9);
+	result(towerHeightTwo, 10);
 
 	return 0;
 
